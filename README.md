@@ -1,5 +1,5 @@
 # MachineLearning
-Build machine learning models with TensorFlow lite and tensorflow to detect types of plastic waste from images uploaded by users. By using machine learning with image classification, we can provide accurate and relevant information and advice for each type of plastic waste.
+Machine learning is a branch of artificial intelligence that enables computers to learn from data and perform tasks without being explicitly programmed. In our application, we use machine learning models with TensorFlow lite and tensorflow to detect the type of plastic waste from the images uploaded by the users. By using machine learning with image classification, we can provide accurate and relevant information and suggestions for each type of plastic waste.
 To create a Machine Learning model in this project there are several parameters, tools, and libraries that we use, including the following:
 
 ## CNN Model
